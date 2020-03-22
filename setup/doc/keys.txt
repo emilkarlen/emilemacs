@@ -1,0 +1,29 @@
+-*- org -*-
+
+* Regioner	
+
+| C-x n n | narrow to region          |
+| C-x n w | Widen – avsluta narrowing |
+
+* Mark, Point	
+
+| M-S-SPC   | andra sidan ord          |
+| C-u C-SPC | poppa mark-pos från ring |
+
+* Belysning (s93 minor mode hi-lock-mode)	
+
+| C-x w h regexp R face R | Belys regexp |
+| C-x w r regexp R        | Släck regexp |
+
+* Register	
+
+| C-x r s s | Spara regionen i register              |
+| C-x r i i | Infoga registers innehåll i bufferten  |
+| C-x r SPC | point till register                    |
+| C-x r j   | flyta point till innehållet i register |
+
+* Annat	
+
+| C-x . | Sätter fill-prefix |
+| C-f4  | Formatera stycke   |
+| C-f3  | Rubrik             |

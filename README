@@ -1,0 +1,9 @@
+* Dokumentation
+
+Ska dokumentera instruktioner för installation och konfiguration i
+~/Documents/Systemet/Systemet-installation-konfiguration.docbook.xml
+
+* rsync-filter
+
+En .rsync-filter används.
+Den exkluderar .elc filer och filer som tillverkats av autotoolset.

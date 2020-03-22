@@ -1,0 +1,8 @@
+*.elc
+
+COPYING
+INSTALL
+elc-stamp
+elisp-comp
+Makefile
+Makefile.in
